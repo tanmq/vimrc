@@ -7,7 +7,7 @@ VIM配置文件
 
 ####下载vundle
 ```
-git clone https://github.com/gmarik/vundle.giat ~/.vim/bundle/vundle
+git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 ```
 
 ####配置vimrc
